@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/.idea/Belajar-goroutine.iml" filepath="$PROJECT_DIR$/.idea/Belajar-goroutine.iml" />
-=======
       <module fileurl="file://$PROJECT_DIR$/.idea/go-goroutine.iml" filepath="$PROJECT_DIR$/.idea/go-goroutine.iml" />
->>>>>>> f83c874353b5e2002687868d93d5aada70cf9a8e
     </modules>
   </component>
 </project>
